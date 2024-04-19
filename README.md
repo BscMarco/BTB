@@ -1,2 +1,2 @@
-# BTB
+Basics
 Sicherheit durch Expertise.
